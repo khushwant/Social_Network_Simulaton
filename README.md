@@ -1,3 +1,4 @@
 # Social_Network_Simulaton
-Software Requirements fro running code:
+Software Requirements for running code:
+
   1) C++ compiler.
